@@ -1,9 +1,8 @@
-# GitHub Actions Templates
+# Solace Orbit integrations
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.0-4baaaa.svg)](.github/CODE_OF_CONDUCT.md)
 
-Automate community integrations for your Orbit workspace with these GitHub Actions template starter files
+This repo has automated community integrations through GitHub Actions and [custom](./custom/) imports via csv files formatting
 
-![First-time setup: create a GitHub account, create a new GitHub repository, add your Orbit details. Each integration: create a new workflow, copy & paste the provided code, follow and integration-specific instructions.](images/main_flow.png)
 
 # Overview
 
