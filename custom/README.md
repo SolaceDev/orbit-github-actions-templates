@@ -21,4 +21,12 @@ This helper script assumes the following:
 
 Important note! When exporting the Strigo activities into the `raw/strigo` directory, **RENAME** the file to `<NameOfCompany>_<NameOfWorkshop>.csv`. For example `Solace_DevJam.csv` or `Solace_Boomi.csv`
 
-After running the script, the exported users and activities file are found in the `csvImport/strigo` directory
+After running the script, the exported users and activities file are found in the `csvImport/strigo` directory.
+
+Below are the list of workshops that could be used for `<NameOfWorkshop>`
+- DevJam
+- Boomi
+- Spring
+- REST
+- Portal
+- Kafka
