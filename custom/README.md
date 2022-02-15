@@ -23,7 +23,7 @@ Important note! When exporting the Strigo activities into the `raw/strigo` direc
 
 After running the script, the exported users and activities file are found in the `csvImport/strigo` directory.
 
-Below are the list of workshops that could be used for `<NameOfWorkshop>`
+Below are the list of workshops that could be used for `<NameOfWorkshop>`; in code [here](https://github.com/SolaceDev/orbit-github-actions-templates/blob/main/custom/strigoCSVimport.js#L11-L30) if they need to be modified.
 - DevJam
 - Boomi
 - Spring
